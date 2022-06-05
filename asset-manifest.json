@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gauri1804/static/css/main.bfeac751.css",
+    "main.js": "/Gauri1804/static/js/main.4d09a63f.js",
+    "static/js/787.3f00b8b1.chunk.js": "/Gauri1804/static/js/787.3f00b8b1.chunk.js",
+    "static/media/kedarnath.jpg": "/Gauri1804/static/media/kedarnath.ba51c41d52fa90c6a810.jpg",
+    "static/media/wildlife.jpg": "/Gauri1804/static/media/wildlife.e475c97cd52f803e9c67.jpg",
+    "static/media/food.jpg": "/Gauri1804/static/media/food.4d7842a50d729cd04d05.jpg",
+    "static/media/Cro2.jpg": "/Gauri1804/static/media/Cro2.e6a595827e3f2d83269c.jpg",
+    "static/media/1.jpg": "/Gauri1804/static/media/1.51743b47743174c5565a.jpg",
+    "static/media/temple.jpg": "/Gauri1804/static/media/temple.7ae4435977fe1f119c9c.jpg",
+    "static/media/timthumb.jpeg": "/Gauri1804/static/media/timthumb.20068b77c82a9aa93049.jpeg",
+    "static/media/download1.jpeg": "/Gauri1804/static/media/download1.5058c0b82ec711e6749d.jpeg",
+    "index.html": "/Gauri1804/index.html",
+    "main.bfeac751.css.map": "/Gauri1804/static/css/main.bfeac751.css.map",
+    "main.4d09a63f.js.map": "/Gauri1804/static/js/main.4d09a63f.js.map",
+    "787.3f00b8b1.chunk.js.map": "/Gauri1804/static/js/787.3f00b8b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfeac751.css",
+    "static/js/main.4d09a63f.js"
+  ]
+}
